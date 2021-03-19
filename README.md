@@ -22,6 +22,9 @@
 
 - 📫 How to reach me **djebalimootez1@gmail.com**
 
+<br/>
+<br/>
+
 <p align="left">
 <img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
 <img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/>
