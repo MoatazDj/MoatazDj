@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=mohamed-dhia" alt="djebali-moataz" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=MoatazDj" alt="djebali-moataz" /> </p>
 
 - 🔭 I’m currently Looking **for new work opportunities**
 
